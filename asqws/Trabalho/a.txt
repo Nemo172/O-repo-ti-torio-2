@@ -1,0 +1,23 @@
+  <h1 class = "aoi">Genios ocultos</h1>
+        <p class = "aoi2">O apagamento histórico das mulheres na ciência e na cultura distorce a realidade,<br>
+             fazendo parecer que a genialidade é um privilégio exclusivamente masculino.<br> 
+             Isso perpetua estereótipos de que mulheres são menos capazes em áreas técnicas<br> 
+             e científicas, afastando novas gerações de vocações nesses campos. Além disso,<br> 
+             priva a sociedade de referências fundamentais, enfraquecendo a diversidade de<br>
+             perspectivas indispensável para a inovação e o avanço do conhecimento.</p>
+              <img class ="FR2" src ="Rosalind.png" width="200" height="200" alt ="Rosalind Franklin">
+              <p class = FR><a href="https://pt.wikipedia.org/wiki/Rosalind_Franklin">Rosalind Franklin</a> foi uma brilhante química e cristalógrafa britânica cuja pesquisa com difração de raios X <br>foi fundamental para decifrar a estrutura de dupla hélice do DNA. O célebre "Fotografia 51", obtido 
+                por ela<br> e seu aluno Raymond Gosling, forneceu as evidências experimentais essenciais usadas sem seu consentimento<br> por James Watson e Francis Crick. Apesar de seu papel crucial na descoberta, seu trabalho foi marginalizado<br> em vida e não recebeu o devido reconhecimento na época. Hoje, ela é celebrada como uma das cientistas mais<br>
+                 importantes do século XX e um símbolo da contribuição feminina para a ciência.</p>
+
+       
+              <img class ="aFR2" src ="Jocelyn Bell Burnell.png" width="200" height="200" alt ="Jocelyn Bell Burnell">
+                <p class = "aFR">A astrofísica do Norte da Irlanda <a href="https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell">Jocelyn Bell Burnell</a>   descobriu os púlsares <br>(estrelas de nêutrons) enquanto era estudante de pós-graduação. Ela foi a primeira pessoa a <br>detectar e analisar os sinais de rádio emitidos por essas estrelas no universo. Apesar de ter sido a <br>responsável direta pela observação e identificação do fenômeno, o Prêmio Nobel de Física de 1974<br> pela descoberta foi entregue apenas ao seu orientador, Antony Hewish, excluindo totalmente o nome<br> de Jocelyn da premiação.</p>
+               
+             <img class ="cFR2" src ="inte.png" width="200" height="200">
+              <p class ="cFR">Estimar um número exato é impossível, pois ao longo dos séculos incontáveis mulheres tiveram suas<br> contribuições ignoradas em diversas áreas, desde a ciência até as artes. Historiadores apontam que a<br> grande maioria das pesquisadoras, inventoras e pensadoras da Antiguidade e da Era Moderna teve seu<br> trabalho registrado sob pseudônimos masculinos ou atribuído a homens. Esse fenômeno sistemático, <br>conhecido como "Efeito Matilda", afetou milhares de mentes brilhantes que foram apagadas dos registros <br>oficiais. Portanto, o número real é incalculável e representa uma enorme perda de patrimônio histórico e<br> cultural para a humanidade.</p>
+              
+
+
+
+<link rel ="stylesheet" href ="style.css"> 

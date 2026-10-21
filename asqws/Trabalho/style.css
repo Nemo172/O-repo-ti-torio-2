@@ -1,0 +1,30 @@
+    .FR{
+          transform: translate(260px, -160px)
+    }
+    .FR2{
+          transform: translate(50px, 40px)
+    }
+    .aoi{
+          transform: translate(450px, 0px)
+    }
+     .aoi2{
+          transform: translate(300px, 0px)
+    }
+    .aFR{
+transform: translate(260px, -270px)
+    }
+    .aFR2{
+transform: translate(50px, -70px)
+    }
+        .bFR{
+transform: translate(260px, -270px)
+    }
+    .bFR2{
+transform: translate(50px, -70px)
+    }
+    .cFR{
+transform: translate(260px, -380px)
+    }
+    .cFR2{
+transform: translate(50px, -180px)
+    }
